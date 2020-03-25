@@ -1,0 +1,10 @@
+﻿  result.cpp
+d:\プログラム\directx\shootinggamevermaster\scene.h(16): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+d:\プログラム\directx\shootinggamevermaster\result.cpp(71): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\プログラム\directx\shootinggamevermaster\result.cpp(71): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  4 of 165 functions ( 2.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  ShootingGameVerMaster.vcxproj -> D:\プログラム\DirectX\ShootingGameVerMaster\Release\ShootingGameVerMaster.exe
